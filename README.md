@@ -7,5 +7,6 @@ The interview will happen over [Zoom](https://zoom.us/). One portion of the inte
 ## What You Need
 * The ability **to share your screen** over Zoom so we can observe while you code.
 * A [GitHub](https://github.com/) account so we can give you access to clone our coding exercise repository.
-* [`git`](https://git-scm.com/) or a `git` [client](https://git-scm.com/downloads/guis) so you can clone our coding exercise repository.
+* [`git`](https://git-scm.com/) or a git [client](https://git-scm.com/downloads/guis) so you can clone our coding exercise repository.
+  * appropriate configuration of `git` or your git client to clone our private repository via [https](https://docs.github.com/en/github/using-git/which-remote-url-should-i-use#cloning-with-https-urls) or [ssh](https://docs.github.com/en/github/using-git/which-remote-url-should-i-use#cloning-with-ssh-urls).
 * A development environment [ready](./python-smoketest) to do the exercise.
